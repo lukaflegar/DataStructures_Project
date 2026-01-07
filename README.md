@@ -11,7 +11,7 @@ This project was developed as part of the **Data Structures** course.
 
 The project implements the card game **UNO** in C, focusing on **custom data structures**:
 - 🔄 **Doubly circular linked list** → managing players in turn order.  
-- 🃏 **Singly linked list** → storing each player's hand of cards.  
+- ➡️ **Singly linked list** → storing each player's hand of cards.  
   ...
 
 ---
@@ -22,7 +22,7 @@ The project implements the card game **UNO** in C, focusing on **custom data str
 - Supports UNO special cards:
   - Skip ⏭️  
   - Reverse 🔁  
-  - +2  
+  - +2 ➕️2️⃣
   - Normal number cards 🔢  
 - 🂠 Draw a card when no valid moves exist.  
 - 🤚 Automatic:
