@@ -22,7 +22,7 @@ The project implements the card game **UNO** in C, focusing on **custom data str
 - Supports UNO special cards:
   - Skip ⏭️  
   - Reverse 🔁  
-  - +2 ➕️2️⃣
+  - +2 
   - Normal number cards 🔢  
 - 🂠 Draw a card when no valid moves exist.  
 - 🤚 Automatic:
